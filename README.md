@@ -1,2 +1,3 @@
 # README
-Noobie programmer trying to make the best of life 
+Noobie Programmer / What does life mean ? 
+
